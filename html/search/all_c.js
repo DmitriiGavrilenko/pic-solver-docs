@@ -1,7 +1,19 @@
 var searchData=
 [
-  ['operator_21_3d_0',['operator!=',['../structAlignedAllocator.html#a19059e33a85507abd09389befc54b414',1,'AlignedAllocator']]],
-  ['operator_3d_3d_1',['operator==',['../structAlignedAllocator.html#a25905f360368477245748975caab80f3',1,'AlignedAllocator']]],
-  ['operator_5b_5d_2',['operator[]',['../classParticleContainer.html#ad31d0b7fe0630c65b7922a43b4368105',1,'ParticleContainer::operator[](size_t i)'],['../classParticleContainer.html#acb1008a8c1e0973d6c4b515e8932dbac',1,'ParticleContainer::operator[](size_t i) const']]],
-  ['other_3',['other',['../structAlignedAllocator_1_1rebind.html#afb6c2cf8fcca0287fc5aed297ed324d0',1,'AlignedAllocator::rebind']]]
+  ['m_0',['m',['../namespaceunits.html#af4718035ded419b8a80559b6a0602db6',1,'units']]],
+  ['m2_1',['m2',['../namespaceunits.html#a47154ded91c60fd218676e3fe902f3ed',1,'units']]],
+  ['m3_2',['m3',['../namespaceunits.html#a3017ebb62f9f8a7d25ac214e95f54003',1,'units']]],
+  ['m_5felectron_3',['m_electron',['../namespaceconstants_1_1si.html#adb8a2f99e6fc34ea865a7f19b9a598f4',1,'constants::si::m_electron'],['../namespaceconstants_1_1normalized.html#a13ab9b579d6d6d6a4d2ef358cf9e835a',1,'constants::normalized::m_electron']]],
+  ['m_5fproton_4',['m_proton',['../namespaceconstants_1_1si.html#a1d4c481edb64f96e4302d2a32725caf2',1,'constants::si']]],
+  ['make_5f1d_5',['make_1d',['../structGridParams.html#a8a648c7c9e2205d75893a32f41f94444',1,'GridParams']]],
+  ['make_5f2d_6',['make_2d',['../structGridParams.html#a17db9072c5833ab88e155a69c6100920',1,'GridParams']]],
+  ['make_5f3d_7',['make_3d',['../structGridParams.html#aa52ed564f7265161683571ad02cd529b',1,'GridParams']]],
+  ['memory_5fbytes_8',['memory_bytes',['../structVectorField.html#a3342bda05657a4cc070f019773adfbdc',1,'VectorField::memory_bytes()'],['../classYeeGrid.html#a0549dd102c87016a0aedfaa377c28eb1',1,'YeeGrid::memory_bytes()']]],
+  ['mev_9',['MeV',['../namespaceunits.html#ab6c6d916ada5dde633659e2da612ea1f',1,'units']]],
+  ['mhz_10',['MHz',['../namespaceunits.html#a6c3072b3d8161f712ae8e1e500c9cebb',1,'units']]],
+  ['mm_11',['mm',['../namespaceunits.html#af371cf0333c3be8fa6948603811f1914',1,'units']]],
+  ['ms_12',['ms',['../namespaceunits.html#adf3686fe94cce905b16c5b675f938f8e',1,'units']]],
+  ['mu_5f0_13',['mu_0',['../namespaceconstants_1_1si.html#aa6d4e3ba1f1c36d8a08c15116ebfa502',1,'constants::si']]],
+  ['mv_14',['MV',['../namespaceunits.html#a75b6fd3e133006e55da13a3f5481510b',1,'units']]],
+  ['mv_5fm_15',['MV_m',['../namespaceunits.html#a4ae93de679f0bbd73ec48d125014882c',1,'units']]]
 ];

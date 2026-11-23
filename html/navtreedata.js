@@ -52,13 +52,15 @@ var NAVTREE =
         [ "Определения типов", "globals_type.html", null ],
         [ "Перечисления", "globals_enum.html", null ]
       ] ]
-    ] ]
+    ] ],
+    [ "Примеры", "examples.html", "examples" ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"annotated.html"
+"annotated.html",
+"structVectorField_1_1Pointers.html#a285f4b72a95d42260ea577fa05998fb7"
 ];
 
 var SYNCONMSG = 'нажмите на выключить для синхронизации панелей';

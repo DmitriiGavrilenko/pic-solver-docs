@@ -1,10 +1,9 @@
 var searchData=
 [
-  ['m_5felectron_0',['m_electron',['../namespaceconstants_1_1si.html#adb8a2f99e6fc34ea865a7f19b9a598f4',1,'constants::si']]],
-  ['m_5fproton_1',['m_proton',['../namespaceconstants_1_1si.html#a1d4c481edb64f96e4302d2a32725caf2',1,'constants::si']]],
-  ['make_5f1d_2',['make_1d',['../structGridParams.html#a8a648c7c9e2205d75893a32f41f94444',1,'GridParams']]],
-  ['make_5f2d_3',['make_2d',['../structGridParams.html#a17db9072c5833ab88e155a69c6100920',1,'GridParams']]],
-  ['make_5f3d_4',['make_3d',['../structGridParams.html#aa52ed564f7265161683571ad02cd529b',1,'GridParams']]],
-  ['memory_5fbytes_5',['memory_bytes',['../structVectorField.html#a3342bda05657a4cc070f019773adfbdc',1,'VectorField']]],
-  ['mu_5f0_6',['mu_0',['../namespaceconstants_1_1si.html#aa6d4e3ba1f1c36d8a08c15116ebfa502',1,'constants::si']]]
+  ['k_5fb_0',['k_b',['../namespaceconstants_1_1si.html#a9a28290d27ccc33090764f0676195793',1,'constants::si']]],
+  ['kev_1',['keV',['../namespaceunits.html#ae485ffd4b8197a9721d0edf312dd5bc4',1,'units']]],
+  ['kg_2',['kg',['../namespaceunits.html#ab36b0d56253d4f80e5190ad0a2db58e8',1,'units']]],
+  ['khz_3',['kHz',['../namespaceunits.html#af6ce8e26df3afccc7fb11a89c85f1766',1,'units']]],
+  ['kt_4',['kT',['../namespaceunits.html#a33344470cae6ed4d36c4c2a7fc2f6b62',1,'units']]],
+  ['kv_5',['kV',['../namespaceunits.html#acfa2f410eaca692c6d8905d1a2b25db6',1,'units']]]
 ];

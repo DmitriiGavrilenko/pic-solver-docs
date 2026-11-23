@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['e_5fcharge_0',['e_charge',['../namespaceconstants_1_1si.html#a6542dfe8a9c4aa57e2b0dcaa52405525',1,'constants::si']]],
-  ['eps_5f0_1',['eps_0',['../namespaceconstants_1_1si.html#af6d419991f5fb4bfcacf84d228b41512',1,'constants::si']]],
-  ['ex_2',['ex',['../classFieldContainer.html#a6cff0b4bb03c3728ac6cdbc3512e2c54',1,'FieldContainer']]],
-  ['ey_3',['ey',['../classFieldContainer.html#a146eff8391ab53455235a3dd88188416',1,'FieldContainer']]],
-  ['ez_4',['ez',['../classFieldContainer.html#a4a15c69df21a3bd89fec58ddaea42b39',1,'FieldContainer']]]
+  ['dim_0',['dim',['../structGridParams.html#a7b3c55b12dd7ef93e6136ec2376ebdf7',1,'GridParams']]],
+  ['dt_1',['dt',['../structGridParams.html#aafa14b75c8ca44af09cd402de7f61fc2',1,'GridParams']]],
+  ['dx_2',['dx',['../structGrid.html#a1f52441a37442b054bf153cc362cf2d8',1,'Grid::dx'],['../structAxisParams.html#a152978f58362fcb11eb74e3bc69adf5e',1,'AxisParams::dx']]],
+  ['dy_3',['dy',['../structGrid.html#ac388777840b30765f83a8a135d7b0cec',1,'Grid']]],
+  ['dz_4',['dz',['../structGrid.html#a229d6a7322d5d4ff446fd78468fef27b',1,'Grid']]]
 ];

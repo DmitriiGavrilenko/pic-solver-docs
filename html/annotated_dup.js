@@ -7,5 +7,6 @@ var annotated_dup =
     [ "Grid", "structGrid.html", "structGrid" ],
     [ "GridParams", "structGridParams.html", "structGridParams" ],
     [ "ParticleContainer", "classParticleContainer.html", "classParticleContainer" ],
-    [ "VectorField", "structVectorField.html", "structVectorField" ]
+    [ "VectorField", "structVectorField.html", "structVectorField" ],
+    [ "YeeGrid", "classYeeGrid.html", "classYeeGrid" ]
 ];

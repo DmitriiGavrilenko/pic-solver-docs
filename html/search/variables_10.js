@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['z_0',['z',['../structGridParams.html#a5660f4a6e3cc9ad4361a64748c243fd3',1,'GridParams::z'],['../classParticleContainer.html#a05ebb35849811b505e047afd9eaf09a6',1,'ParticleContainer::z'],['../structVectorField.html#aa96c580b30333331ceb31ddaa3b67573',1,'VectorField::z'],['../structVectorField_1_1Pointers.html#a285f4b72a95d42260ea577fa05998fb7',1,'VectorField::Pointers::z'],['../structVectorField_1_1ConstPointers.html#a6fcc4b2d1c64bb39776c33e802a81645',1,'VectorField::ConstPointers::z']]]
+  ['s_0',['s',['../namespaceunits.html#a3500d87353f8bc02ee70148bffd1c256',1,'units']]],
+  ['stride_5fy_1',['stride_y',['../structGridParams.html#a94b61288e2769cc2f6d68315b0cb9d73',1,'GridParams']]],
+  ['stride_5fz_2',['stride_z',['../structGridParams.html#a53fc2b5235497737b6c52b1daeb9d5c6',1,'GridParams']]]
 ];

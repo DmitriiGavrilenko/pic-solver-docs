@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['validate_5fcfl_0',['validate_cfl',['../structGridParams.html#aa2a466e383a414307a706f7144ebf824',1,'GridParams']]],
-  ['value_5ftype_1',['value_type',['../structAlignedAllocator.html#a0a7efdc5df37396703b9a7008b744f59',1,'AlignedAllocator']]],
-  ['vector_5ffield_2ehpp_2eh_2',['vector_field.hpp.h',['../vector__field_8hpp_8h.html',1,'']]],
-  ['vectorfield_3',['VectorField',['../structVectorField.html',1,'VectorField'],['../structVectorField.html#a23836e3f28a926a61a56dabb72bac24e',1,'VectorField::VectorField()=default'],['../structVectorField.html#a3d0955b6e71025d5f7380b0880a66f4e',1,'VectorField::VectorField(size_t size, float_point initial_value=static_cast&lt; float_point &gt;(0.0))']]]
+  ['s_0',['s',['../namespaceunits.html#a3500d87353f8bc02ee70148bffd1c256',1,'units']]],
+  ['size_1',['size',['../classParticleContainer.html#a4730ee671dd0f8ef7c4db35c2786fa62',1,'ParticleContainer::size()'],['../structVectorField.html#a7401c58483c4f4959d1588f8cdc73c51',1,'VectorField::size()']]],
+  ['solver_2',['PIC Solver',['../index.html',1,'']]],
+  ['stride_5fy_3',['stride_y',['../structGridParams.html#a94b61288e2769cc2f6d68315b0cb9d73',1,'GridParams']]],
+  ['stride_5fz_4',['stride_z',['../structGridParams.html#a53fc2b5235497737b6c52b1daeb9d5c6',1,'GridParams']]]
 ];

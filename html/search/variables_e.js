@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['x_0',['x',['../structGridParams.html#af67d331e6844d44539d1592751c0c204',1,'GridParams::x'],['../classParticleContainer.html#a05afb2d66e920d100d83752afd6b95c7',1,'ParticleContainer::x'],['../structVectorField.html#a9d170a03bbc74bc1cb8ddf6e0636b4c7',1,'VectorField::x'],['../structVectorField_1_1Pointers.html#a2b625f8b90e001a44eb0fbcb73291b63',1,'VectorField::Pointers::x'],['../structVectorField_1_1ConstPointers.html#ac54a87b77ac4049f812525956edc17bb',1,'VectorField::ConstPointers::x']]]
+  ['q_5fover_5fm_0',['q_over_m',['../classBorisPusher.html#a81041951ae8b39053f996ecd789b4058',1,'BorisPusher']]]
 ];

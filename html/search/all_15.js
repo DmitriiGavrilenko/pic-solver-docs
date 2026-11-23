@@ -1,5 +1,9 @@
 var searchData=
 [
-  ['y_0',['y',['../structGridParams.html#ad7b9eae56a72dcca71dccd7c2c747126',1,'GridParams::y'],['../classParticleContainer.html#acfbc0d09c7d5df082bbc51332969da72',1,'ParticleContainer::y'],['../structVectorField.html#a4dfc4d2e35734b473f96bfc6234970c0',1,'VectorField::y'],['../structVectorField_1_1Pointers.html#ae33e3a7ada0a8b5a34f0dd88ba863037',1,'VectorField::Pointers::y'],['../structVectorField_1_1ConstPointers.html#a0cbbab1ec78dd1de117c836569c704cf',1,'VectorField::ConstPointers::y'],['../structParticleContainer_1_1ParticleRef.html#a5314f0f35d416b0830c1ef86e49e089a',1,'ParticleContainer::ParticleRef::y()'],['../structParticleContainer_1_1ConstParticleRef.html#a6a0affbedfc1c314cfb6b2303e8df201',1,'ParticleContainer::ConstParticleRef::y()']]],
-  ['y_5fptr_1',['y_ptr',['../structVectorField.html#a15d2da1233a0bb48bc198f8a550e8de1',1,'VectorField::y_ptr() noexcept'],['../structVectorField.html#a40dd3605e2b0e39efdc0ec6fc14e88a6',1,'VectorField::y_ptr() const noexcept']]]
+  ['v_0',['V',['../namespaceunits.html#ad4667a8661ffdcc2179b6ff7c2b98e7b',1,'units']]],
+  ['v_5fm_1',['V_m',['../namespaceunits.html#a7cd6c69660fe0fa4790634cbd096ed9a',1,'units']]],
+  ['validate_5fcfl_2',['validate_cfl',['../structGridParams.html#aa2a466e383a414307a706f7144ebf824',1,'GridParams']]],
+  ['value_5ftype_3',['value_type',['../structAlignedAllocator.html#a0a7efdc5df37396703b9a7008b744f59',1,'AlignedAllocator']]],
+  ['vector_5ffield_2ehpp_4',['vector_field.hpp',['../vector__field_8hpp.html',1,'']]],
+  ['vectorfield_5',['VectorField',['../structVectorField.html',1,'VectorField'],['../structVectorField.html#a23836e3f28a926a61a56dabb72bac24e',1,'VectorField::VectorField()=default'],['../structVectorField.html#a3d0955b6e71025d5f7380b0880a66f4e',1,'VectorField::VectorField(size_t size, float_point initial_value=static_cast&lt; float_point &gt;(0.0))']]]
 ];

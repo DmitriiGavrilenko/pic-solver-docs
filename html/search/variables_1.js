@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['c_0',['c',['../classBorisPusher.html#a29d183deedfcbbb507ca170c27f60fe0',1,'BorisPusher']]],
-  ['c2_1',['c2',['../classBorisPusher.html#ad899041d89e86d53fe4f8aac00145320',1,'BorisPusher']]],
-  ['c_5flight_2',['c_light',['../namespaceconstants_1_1si.html#a7c0adcd930a2d1de600cf9f02dc8cc11',1,'constants::si::c_light'],['../namespaceconstants_1_1normalized.html#a0fb603e57c89b71e86417da685294057',1,'constants::normalized::c_light']]],
-  ['cache_5fline_5fsize_3',['CACHE_LINE_SIZE',['../types_8h.html#af4a50006532033d3635c930cf8ae7874',1,'types.h']]],
-  ['container_4',['container',['../structParticleContainer_1_1ParticleRef.html#a08c6feac2caca2991f7111fb6b65394d',1,'ParticleContainer::ParticleRef::container'],['../structParticleContainer_1_1ConstParticleRef.html#a6c90243df0580c7a1d033d79791bd6b1',1,'ParticleContainer::ConstParticleRef::container']]]
+  ['b_0',['b',['../classYeeGrid.html#a83429581d5b35bd6d238f7493bbf52fd',1,'YeeGrid']]],
+  ['bx_1',['bx',['../classFieldContainer.html#a33e23e06db2c32fb02900c0b78e8ba57',1,'FieldContainer::bx'],['../structYeeGrid_1_1YeePointers.html#a6fc06f171326ad0adaf86ed5656a6df8',1,'YeeGrid::YeePointers::bx'],['../structYeeGrid_1_1ConstYeePointers.html#a7f0815bdd0fd93f1883b71a69530956e',1,'YeeGrid::ConstYeePointers::bx']]],
+  ['by_2',['by',['../classFieldContainer.html#a38c7811c0aa186ac76b722828e9991f9',1,'FieldContainer::by'],['../structYeeGrid_1_1YeePointers.html#afda495bf729e056556db3ff7c83bc54c',1,'YeeGrid::YeePointers::by'],['../structYeeGrid_1_1ConstYeePointers.html#a1bb0804a984e19f26028f4c3ea6dd915',1,'YeeGrid::ConstYeePointers::by']]],
+  ['bz_3',['bz',['../classFieldContainer.html#a3cec843a87fdfdfaaaf19b356d28e9ad',1,'FieldContainer::bz'],['../structYeeGrid_1_1YeePointers.html#a52918bfa302f66440d26847faefe4362',1,'YeeGrid::YeePointers::bz'],['../structYeeGrid_1_1ConstYeePointers.html#a1aa6cf9e2ec950a2e7f351a6c1eed088',1,'YeeGrid::ConstYeePointers::bz']]]
 ];
