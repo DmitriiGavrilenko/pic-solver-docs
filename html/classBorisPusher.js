@@ -1,8 +1,11 @@
 var classBorisPusher =
 [
-    [ "BorisPusher", "classBorisPusher.html#af2236d2aece292318f67a71298c766f3", null ],
-    [ "push", "classBorisPusher.html#af58ca3217fcd9908d30a5fc15ea93e37", null ],
-    [ "c", "classBorisPusher.html#a29d183deedfcbbb507ca170c27f60fe0", null ],
-    [ "c2", "classBorisPusher.html#ad899041d89e86d53fe4f8aac00145320", null ],
-    [ "q_over_m", "classBorisPusher.html#a81041951ae8b39053f996ecd789b4058", null ]
+    [ "BorisPusher", "classBorisPusher.html#afb8146b9af1d6e32129020bd1117f1ef", null ],
+    [ "charge_to_mass", "classBorisPusher.html#ac17c33b8b446be060a3564f20f2acbf5", null ],
+    [ "push", "classBorisPusher.html#afd97bf148854a99e097abeccd6a99e79", null ],
+    [ "push_ballistic", "classBorisPusher.html#a09538479e12e7b2a10daf551a6a9aa22", null ],
+    [ "speed_of_light", "classBorisPusher.html#a5872897df56723caf030a34d633f1d2a", null ],
+    [ "c_", "classBorisPusher.html#ac90f053ffbaf99d70abae98eb7e68770", null ],
+    [ "inv_c2_", "classBorisPusher.html#aa5c1c9607135528fbf7414b6f7daeec7", null ],
+    [ "q_over_m_", "classBorisPusher.html#a73683ad61ea13ad1332830478353d60d", null ]
 ];

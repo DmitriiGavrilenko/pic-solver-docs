@@ -18,7 +18,15 @@ var namespaceconstants =
       [ "c_light", "namespaceconstants_1_1normalized.html#a0fb603e57c89b71e86417da685294057", null ],
       [ "c_light_sq", "namespaceconstants_1_1normalized.html#aa441d8476d4d86d449909f567958ca14", null ],
       [ "e_charge", "namespaceconstants_1_1normalized.html#ae23f5dd4257031ad1cb338c39b176ff3", null ],
-      [ "m_electron", "namespaceconstants_1_1normalized.html#a13ab9b579d6d6d6a4d2ef358cf9e835a", null ]
+      [ "electron_q_over_m", "namespaceconstants_1_1normalized.html#a627fbad838048195eee686fc2a3d1fde", null ],
+      [ "eps_0", "namespaceconstants_1_1normalized.html#a5abb509fc69af6923d3b6809dae4b4f1", null ],
+      [ "inv_c_light", "namespaceconstants_1_1normalized.html#a47d776f8051d406b40813ae3ec3a8bcc", null ],
+      [ "inv_eps_0", "namespaceconstants_1_1normalized.html#af8e8694775fc2e00d534541819a87938", null ],
+      [ "k_b", "namespaceconstants_1_1normalized.html#a7fd0002dcf46f1526725049e5b292d78", null ],
+      [ "m_electron", "namespaceconstants_1_1normalized.html#a13ab9b579d6d6d6a4d2ef358cf9e835a", null ],
+      [ "m_proton", "namespaceconstants_1_1normalized.html#a2d782cb23a812aa22a3e0259f0b7a1fd", null ],
+      [ "mu_0", "namespaceconstants_1_1normalized.html#af38a706a812dfc39deff0cf8de72eadd", null ],
+      [ "proton_q_over_m", "namespaceconstants_1_1normalized.html#a53cc7c02d4b672328b4cb7fe961a5cfb", null ]
     ] ],
     [ "pi", "namespaceconstants.html#aa24b78b4f3632972a7e70f02fc98cde5", null ],
     [ "two_pi", "namespaceconstants.html#a81438397c95842bcc0ba4e0b4e56d740", null ]

@@ -1,13 +1,18 @@
 var searchData=
 [
   ['c_0',['C',['../namespaceunits.html#a04b5088bbf4b1c4f425a382740379751',1,'units']]],
-  ['c_1',['c',['../classBorisPusher.html#a29d183deedfcbbb507ca170c27f60fe0',1,'BorisPusher']]],
-  ['c2_2',['c2',['../classBorisPusher.html#ad899041d89e86d53fe4f8aac00145320',1,'BorisPusher']]],
-  ['c_5flight_3',['c_light',['../namespaceconstants_1_1si.html#a7c0adcd930a2d1de600cf9f02dc8cc11',1,'constants::si::c_light'],['../namespaceconstants_1_1normalized.html#a0fb603e57c89b71e86417da685294057',1,'constants::normalized::c_light']]],
+  ['c_5f_1',['c_',['../classBorisPusher.html#ac90f053ffbaf99d70abae98eb7e68770',1,'BorisPusher']]],
+  ['c_5flight_2',['c_light',['../namespaceconstants_1_1si.html#a7c0adcd930a2d1de600cf9f02dc8cc11',1,'constants::si::c_light'],['../namespaceconstants_1_1normalized.html#a0fb603e57c89b71e86417da685294057',1,'constants::normalized::c_light']]],
+  ['c_5flight_5f_3',['c_light_',['../classPicSolver.html#a908e537589b570358424f2dab121b703',1,'PicSolver']]],
   ['c_5flight_5fsq_4',['c_light_sq',['../namespaceconstants_1_1si.html#abe71e3502f7bab0372a2c140be6fea01',1,'constants::si::c_light_sq'],['../namespaceconstants_1_1normalized.html#aa441d8476d4d86d449909f567958ca14',1,'constants::normalized::c_light_sq']]],
-  ['cache_5fline_5fsize_5',['CACHE_LINE_SIZE',['../types_8hpp.html#af4a50006532033d3635c930cf8ae7874',1,'types.hpp']]],
-  ['cm_6',['cm',['../namespaceunits.html#a697ec3d9ebd8a7413534ca09589936e7',1,'units']]],
-  ['cm2_7',['cm2',['../namespaceunits.html#ac013d3b91394a044db14de74d096329e',1,'units']]],
-  ['cm3_8',['cm3',['../namespaceunits.html#ad0fff83e8d59fc5546c63ec170f433cb',1,'units']]],
-  ['container_9',['container',['../structParticleContainer_1_1ParticleRef.html#a08c6feac2caca2991f7111fb6b65394d',1,'ParticleContainer::ParticleRef::container'],['../structParticleContainer_1_1ConstParticleRef.html#a6c90243df0580c7a1d033d79791bd6b1',1,'ParticleContainer::ConstParticleRef::container']]]
+  ['c_5fsq_5f_5',['c_sq_',['../classMaxwellSolver.html#a63e2deb1da968595a26acb58b9e8a7b8',1,'MaxwellSolver']]],
+  ['ca_5ftable_5f_6',['ca_table_',['../classMaterialGrid.html#a7082cf940b7ae47f82137910b11ddd0b',1,'MaterialGrid']]],
+  ['cache_5fline_5fsize_7',['CACHE_LINE_SIZE',['../types_8hpp.html#af4a50006532033d3635c930cf8ae7874',1,'types.hpp']]],
+  ['cb_5ftable_5f_8',['cb_table_',['../classMaterialGrid.html#acd584ec1a9983f85759cbf41bef3e481',1,'MaterialGrid']]],
+  ['charge_9',['charge',['../structParticleSpecies.html#a334fabc7ce67b430d6f7f4a3866df0de',1,'ParticleSpecies']]],
+  ['cm_10',['cm',['../namespaceunits.html#a697ec3d9ebd8a7413534ca09589936e7',1,'units']]],
+  ['cm2_11',['cm2',['../namespaceunits.html#ac013d3b91394a044db14de74d096329e',1,'units']]],
+  ['cm3_12',['cm3',['../namespaceunits.html#ad0fff83e8d59fc5546c63ec170f433cb',1,'units']]],
+  ['container_13',['container',['../structParticleContainer_1_1ParticleRef.html#a08c6feac2caca2991f7111fb6b65394d',1,'ParticleContainer::ParticleRef::container'],['../structParticleContainer_1_1ConstParticleRef.html#a6c90243df0580c7a1d033d79791bd6b1',1,'ParticleContainer::ConstParticleRef::container']]],
+  ['current_5fdepositor_5f_14',['current_depositor_',['../classPicSolver.html#ac148d7fec55bb5ef4bf53dd0245e0135',1,'PicSolver']]]
 ];

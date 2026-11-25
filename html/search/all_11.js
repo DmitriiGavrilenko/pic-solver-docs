@@ -1,8 +1,9 @@
 var searchData=
 [
-  ['readme_2emd_0',['README.md',['../README_8md.html',1,'']]],
-  ['rebind_1',['rebind',['../structAlignedAllocator_1_1rebind.html',1,'AlignedAllocator']]],
-  ['reserve_2',['reserve',['../classParticleContainer.html#aa677cfbfb0cd191e4c8bf19cc9d44f67',1,'ParticleContainer']]],
-  ['resize_3',['resize',['../structVectorField.html#aec83e12c3dc85198ae9ff42228292163',1,'VectorField']]],
-  ['rho_4',['rho',['../classFieldContainer.html#a8e53af7aa520bc4b39be66df6c081cb9',1,'FieldContainer']]]
+  ['k_5fb_0',['k_b',['../namespaceconstants_1_1si.html#a9a28290d27ccc33090764f0676195793',1,'constants::si::k_b'],['../namespaceconstants_1_1normalized.html#a7fd0002dcf46f1526725049e5b292d78',1,'constants::normalized::k_b']]],
+  ['kev_1',['keV',['../namespaceunits.html#ae485ffd4b8197a9721d0edf312dd5bc4',1,'units']]],
+  ['kg_2',['kg',['../namespaceunits.html#ab36b0d56253d4f80e5190ad0a2db58e8',1,'units']]],
+  ['khz_3',['kHz',['../namespaceunits.html#af6ce8e26df3afccc7fb11a89c85f1766',1,'units']]],
+  ['kt_4',['kT',['../namespaceunits.html#a33344470cae6ed4d36c4c2a7fc2f6b62',1,'units']]],
+  ['kv_5',['kV',['../namespaceunits.html#acfa2f410eaca692c6d8905d1a2b25db6',1,'units']]]
 ];

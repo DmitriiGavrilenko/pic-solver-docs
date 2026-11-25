@@ -26,6 +26,25 @@ var NAVTREE =
 [
   [ "PIC Solver", "index.html", [
     [ "plans", "md_docs_2modeling_2plans.html", null ],
+    [ "Архитектура и план развития электромагнитного PIC-солвера", "md_docs_2SAD.html", [
+      [ "1. Текущее состояние проекта", "md_docs_2SAD.html#autotoc_md1", [
+        [ "Реализованные подсистемы", "md_docs_2SAD.html#autotoc_md2", null ]
+      ] ],
+      [ "2. Взаимодействие <span class=\"tt\">PicSolver</span> и <span class=\"tt\">MaxwellSolver</span>", "md_docs_2SAD.html#autotoc_md3", [
+        [ "Хронология одного шага по времени $t^n \\to t^{n+1}$", "md_docs_2SAD.html#autotoc_md4", null ]
+      ] ],
+      [ "3. Подключение граничных условий, интерполяторов и токоотложения", "md_docs_2SAD.html#autotoc_md5", [
+        [ "Принцип полиморфизма крупной гранулярности", "md_docs_2SAD.html#autotoc_md6", null ],
+        [ "Как добавить новую реализацию", "md_docs_2SAD.html#autotoc_md7", null ]
+      ] ],
+      [ "4. Флаги и режимы сортов частиц (<span class=\"tt\">ParticleSpecies</span>)", "md_docs_2SAD.html#autotoc_md8", [
+        [ "Матрица физических сценариев", "md_docs_2SAD.html#autotoc_md9", null ]
+      ] ],
+      [ "5. План внедрения адаптивной размерности и масштабирования", "md_docs_2SAD.html#autotoc_md10", [
+        [ "Целевая концепция масштабирования", "md_docs_2SAD.html#autotoc_md11", null ]
+      ] ],
+      [ "6. Дорожная карта дальнейшего развития", "md_docs_2SAD.html#autotoc_md12", null ]
+    ] ],
     [ "Пространства имен", "namespaces.html", [
       [ "Пространства имен", "namespaces.html", "namespaces_dup" ],
       [ "Члены пространств имен", "namespacemembers.html", [
@@ -36,8 +55,9 @@ var NAVTREE =
     [ "Классы", "annotated.html", [
       [ "Классы", "annotated.html", "annotated_dup" ],
       [ "Алфавитный указатель классов", "classes.html", null ],
+      [ "Иерархия классов", "hierarchy.html", "hierarchy" ],
       [ "Члены классов", "functions.html", [
-        [ "Указатель", "functions.html", null ],
+        [ "Указатель", "functions.html", "functions_dup" ],
         [ "Функции", "functions_func.html", null ],
         [ "Переменные", "functions_vars.html", null ],
         [ "Определения типов", "functions_type.html", null ]
@@ -60,7 +80,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"structVectorField_1_1Pointers.html#a285f4b72a95d42260ea577fa05998fb7"
+"namespaceconstants_1_1si.html"
 ];
 
 var SYNCONMSG = 'нажмите на выключить для синхронизации панелей';

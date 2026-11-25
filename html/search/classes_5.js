@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['particlecontainer_0',['ParticleContainer',['../classParticleContainer.html',1,'']]],
-  ['particleref_1',['ParticleRef',['../structParticleContainer_1_1ParticleRef.html',1,'ParticleContainer']]],
-  ['pointers_2',['Pointers',['../structVectorField_1_1Pointers.html',1,'VectorField']]]
+  ['material_0',['Material',['../structMaterial.html',1,'']]],
+  ['materialgrid_1',['MaterialGrid',['../classMaterialGrid.html',1,'']]],
+  ['maxwellsolver_2',['MaxwellSolver',['../classMaxwellSolver.html',1,'']]]
 ];

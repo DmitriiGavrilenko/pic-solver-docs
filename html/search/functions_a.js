@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['operator_21_3d_0',['operator!=',['../structAlignedAllocator.html#a19059e33a85507abd09389befc54b414',1,'AlignedAllocator']]],
-  ['operator_3d_3d_1',['operator==',['../structAlignedAllocator.html#a25905f360368477245748975caab80f3',1,'AlignedAllocator']]],
-  ['operator_5b_5d_2',['operator[]',['../classParticleContainer.html#ad31d0b7fe0630c65b7922a43b4368105',1,'ParticleContainer::operator[](size_t i)'],['../classParticleContainer.html#acb1008a8c1e0973d6c4b515e8932dbac',1,'ParticleContainer::operator[](size_t i) const']]]
+  ['num_5fmaterials_0',['num_materials',['../classMaterialGrid.html#a6a320ba5c5a54e9eb1d6f14c812c8d7c',1,'MaterialGrid']]]
 ];

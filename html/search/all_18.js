@@ -1,8 +1,11 @@
 var searchData=
 [
-  ['y_0',['y',['../structGridParams.html#ad7b9eae56a72dcca71dccd7c2c747126',1,'GridParams::y'],['../classParticleContainer.html#acfbc0d09c7d5df082bbc51332969da72',1,'ParticleContainer::y'],['../structVectorField.html#a4dfc4d2e35734b473f96bfc6234970c0',1,'VectorField::y'],['../structVectorField_1_1Pointers.html#ae33e3a7ada0a8b5a34f0dd88ba863037',1,'VectorField::Pointers::y'],['../structVectorField_1_1ConstPointers.html#a0cbbab1ec78dd1de117c836569c704cf',1,'VectorField::ConstPointers::y'],['../structParticleContainer_1_1ParticleRef.html#a5314f0f35d416b0830c1ef86e49e089a',1,'ParticleContainer::ParticleRef::y()'],['../structParticleContainer_1_1ConstParticleRef.html#a6a0affbedfc1c314cfb6b2303e8df201',1,'ParticleContainer::ConstParticleRef::y()']]],
-  ['y_5fptr_1',['y_ptr',['../structVectorField.html#a15d2da1233a0bb48bc198f8a550e8de1',1,'VectorField::y_ptr() noexcept'],['../structVectorField.html#a40dd3605e2b0e39efdc0ec6fc14e88a6',1,'VectorField::y_ptr() const noexcept']]],
-  ['yee_5fgrid_2ehpp_2',['yee_grid.hpp',['../yee__grid_8hpp.html',1,'']]],
-  ['yeegrid_3',['YeeGrid',['../classYeeGrid.html',1,'YeeGrid'],['../classYeeGrid.html#ab340b6686877497a06335cd451f0bd53',1,'YeeGrid::YeeGrid(const GridParams &amp;params)']]],
-  ['yeepointers_4',['YeePointers',['../structYeeGrid_1_1YeePointers.html',1,'YeeGrid']]]
+  ['readme_2emd_0',['README.md',['../README_8md.html',1,'']]],
+  ['rebind_1',['rebind',['../structAlignedAllocator_1_1rebind.html',1,'AlignedAllocator']]],
+  ['register_5fmaterial_2',['register_material',['../classMaterialGrid.html#a51685e10bd24b66c0120912781a7e191',1,'MaterialGrid']]],
+  ['reserve_3',['reserve',['../classParticleContainer.html#aa677cfbfb0cd191e4c8bf19cc9d44f67',1,'ParticleContainer']]],
+  ['reset_5fto_5fvacuum_4',['reset_to_vacuum',['../classMaterialGrid.html#a540c02bc74267709ceaa5afdb0ea4c72',1,'MaterialGrid']]],
+  ['resize_5',['resize',['../structVectorField.html#aec83e12c3dc85198ae9ff42228292163',1,'VectorField']]],
+  ['rho_6',['rho',['../classFieldContainer.html#a8e53af7aa520bc4b39be66df6c081cb9',1,'FieldContainer']]],
+  ['run_7',['run',['../classPicSolver.html#a6dfb562de1673a59381972571ffed6d3',1,'PicSolver']]]
 ];

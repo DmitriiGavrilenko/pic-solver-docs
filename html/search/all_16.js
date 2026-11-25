@@ -1,4 +1,32 @@
 var searchData=
 [
-  ['weight_0',['weight',['../classParticleContainer.html#a0c37fb5d94ac6224e25d4a277adaa9fb',1,'ParticleContainer::weight'],['../structParticleContainer_1_1ParticleRef.html#ab5fa2a32e566bf9e66d5e8912d07ab21',1,'ParticleContainer::ParticleRef::weight()'],['../structParticleContainer_1_1ConstParticleRef.html#a288a893d4f133ab57c46c6220c756e18',1,'ParticleContainer::ConstParticleRef::weight()']]]
+  ['pad_5fto_5fcache_5fline_0',['pad_to_cache_line',['../types_8hpp.html#ae19f772b52aff51b8be2b55e0c207a7d',1,'types.hpp']]],
+  ['particle_5fcontainer_2ecpp_1',['particle_container.cpp',['../particle__container_8cpp.html',1,'']]],
+  ['particle_5fcontainer_2ehpp_2',['particle_container.hpp',['../particle__container_8hpp.html',1,'']]],
+  ['particle_5fspecies_2ehpp_3',['particle_species.hpp',['../particle__species_8hpp.html',1,'']]],
+  ['particlecontainer_4',['ParticleContainer',['../classParticleContainer.html',1,'']]],
+  ['particlepointers_5',['ParticlePointers',['../structParticleContainer_1_1ParticlePointers.html',1,'ParticleContainer']]],
+  ['particleref_6',['ParticleRef',['../structParticleContainer_1_1ParticleRef.html',1,'ParticleContainer']]],
+  ['particles_7',['particles',['../structParticleSpecies.html#a7ebd5b27ec96b8feed318b5a8cbb3f1f',1,'ParticleSpecies']]],
+  ['particlespecies_8',['ParticleSpecies',['../md_docs_2SAD.html#autotoc_md8',1,'4. Флаги и режимы сортов частиц (&lt;span class=&quot;tt&quot;&gt;ParticleSpecies&lt;/span&gt;)'],['../structParticleSpecies.html',1,'ParticleSpecies'],['../structParticleSpecies.html#a57c25184f4ba6e97a36088d91342e461',1,'ParticleSpecies::ParticleSpecies()']]],
+  ['pec_9',['pec',['../structMaterial.html#a3c8c80a1c04cdb68cabd8ad2afd99476',1,'Material']]],
+  ['pi_10',['pi',['../namespaceconstants.html#aa24b78b4f3632972a7e70f02fc98cde5',1,'constants']]],
+  ['pic_20солвера_11',['Архитектура и план развития электромагнитного PIC-солвера',['../md_docs_2SAD.html',1,'']]],
+  ['pic_20solver_12',['PIC Solver',['../index.html',1,'']]],
+  ['pic_5fsolver_2ecpp_13',['pic_solver.cpp',['../pic__solver_8cpp.html',1,'']]],
+  ['pic_5fsolver_2ehpp_14',['pic_solver.hpp',['../pic__solver_8hpp.html',1,'']]],
+  ['picsolver_15',['PicSolver',['../classPicSolver.html',1,'PicSolver'],['../classPicSolver.html#a78d5d3eb25b8e40b64d5f77300218e84',1,'PicSolver::PicSolver()']]],
+  ['picsolver_20и_20maxwellsolver_16',['2. Взаимодействие &lt;span class=&quot;tt&quot;&gt;PicSolver&lt;/span&gt; и &lt;span class=&quot;tt&quot;&gt;MaxwellSolver&lt;/span&gt;',['../md_docs_2SAD.html#autotoc_md3',1,'']]],
+  ['plans_17',['plans',['../md_docs_2modeling_2plans.html',1,'']]],
+  ['plans_2emd_18',['plans.md',['../plans_8md.html',1,'']]],
+  ['pointers_19',['Pointers',['../structVectorField_1_1Pointers.html',1,'VectorField']]],
+  ['pointers_20',['pointers',['../classParticleContainer.html#a18a6ca1a3a886a09d7b3e25de540e99b',1,'ParticleContainer::pointers() noexcept'],['../classParticleContainer.html#aa39c4bb0dd381f1a95f8e52b3e8f7c5c',1,'ParticleContainer::pointers() const noexcept'],['../structVectorField.html#ae5d8d0613a7ba1e859f7eaf649faac12',1,'VectorField::pointers() noexcept'],['../structVectorField.html#ae70577757d8f9040b0d8187fea816f13',1,'VectorField::pointers() const noexcept'],['../classYeeGrid.html#ae5427656b4f8cb565bac2295742d3ec1',1,'YeeGrid::pointers() noexcept'],['../classYeeGrid.html#ade613a9362476f3effecddec65a62ced',1,'YeeGrid::pointers() const noexcept']]],
+  ['proton_5fq_5fover_5fm_21',['proton_q_over_m',['../namespaceconstants_1_1si.html#add34608e14ab8346764ddb0b4a191763',1,'constants::si::proton_q_over_m'],['../namespaceconstants_1_1normalized.html#a53cc7c02d4b672328b4cb7fe961a5cfb',1,'constants::normalized::proton_q_over_m']]],
+  ['ps_22',['ps',['../namespaceunits.html#a3c0bd52d62ba562bdf27c6c5c306a983',1,'units']]],
+  ['push_23',['push',['../classBorisPusher.html#afd97bf148854a99e097abeccd6a99e79',1,'BorisPusher']]],
+  ['push_5fballistic_24',['push_ballistic',['../classBorisPusher.html#a09538479e12e7b2a10daf551a6a9aa22',1,'BorisPusher']]],
+  ['pusher_25',['pusher',['../structParticleSpecies.html#a3cfed77985b9304769fbd153e99ba47a',1,'ParticleSpecies']]],
+  ['px_26',['px',['../classParticleContainer.html#a33d58efa23b64295752253e13838e50f',1,'ParticleContainer::px'],['../structParticleContainer_1_1ParticlePointers.html#a29e43c20d15ef05c127066cff5dac1ec',1,'ParticleContainer::ParticlePointers::px'],['../structParticleContainer_1_1ConstParticlePointers.html#aca0d17566fbcccd19ca003b58d5cb5e4',1,'ParticleContainer::ConstParticlePointers::px'],['../structParticleContainer_1_1ParticleRef.html#a4c1c4d89ba717d7b1ce69782781b6683',1,'ParticleContainer::ParticleRef::px()'],['../structParticleContainer_1_1ConstParticleRef.html#a8784bb32a7184ab79543528f988673b2',1,'ParticleContainer::ConstParticleRef::px()']]],
+  ['py_27',['py',['../classParticleContainer.html#a327b534ae89b227f770b6aeca22f5419',1,'ParticleContainer::py'],['../structParticleContainer_1_1ParticlePointers.html#a927c2858e5fb3bb49e61ad3e38718cf2',1,'ParticleContainer::ParticlePointers::py'],['../structParticleContainer_1_1ConstParticlePointers.html#ac855756cab758872f8781933204628be',1,'ParticleContainer::ConstParticlePointers::py'],['../structParticleContainer_1_1ParticleRef.html#ac8ee8466e4d977fb3ef471ce780c45b6',1,'ParticleContainer::ParticleRef::py()'],['../structParticleContainer_1_1ConstParticleRef.html#ac31b0006d29bcda042a2dc13269ee326',1,'ParticleContainer::ConstParticleRef::py()']]],
+  ['pz_28',['pz',['../classParticleContainer.html#a191ebe4a74745c218714aea1ea5ee9a8',1,'ParticleContainer::pz'],['../structParticleContainer_1_1ParticlePointers.html#a66311800c6b534471b19b7b46201625f',1,'ParticleContainer::ParticlePointers::pz'],['../structParticleContainer_1_1ConstParticlePointers.html#aa3a8e460b9d30fb059743d0d2eac8287',1,'ParticleContainer::ConstParticlePointers::pz'],['../structParticleContainer_1_1ParticleRef.html#a3e43d4548075f5121cbf55a59510fdd8',1,'ParticleContainer::ParticleRef::pz()'],['../structParticleContainer_1_1ConstParticleRef.html#ab3e2f7c20a96c76dae4ae76ec741078b',1,'ParticleContainer::ConstParticleRef::pz()']]]
 ];

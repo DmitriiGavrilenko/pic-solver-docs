@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['y_0',['y',['../structParticleContainer_1_1ParticleRef.html#a5314f0f35d416b0830c1ef86e49e089a',1,'ParticleContainer::ParticleRef::y()'],['../structParticleContainer_1_1ConstParticleRef.html#a6a0affbedfc1c314cfb6b2303e8df201',1,'ParticleContainer::ConstParticleRef::y()']]],
-  ['y_5fptr_1',['y_ptr',['../structVectorField.html#a15d2da1233a0bb48bc198f8a550e8de1',1,'VectorField::y_ptr() noexcept'],['../structVectorField.html#a40dd3605e2b0e39efdc0ec6fc14e88a6',1,'VectorField::y_ptr() const noexcept']]],
-  ['yeegrid_2',['YeeGrid',['../classYeeGrid.html#ab340b6686877497a06335cd451f0bd53',1,'YeeGrid']]]
+  ['x_0',['x',['../structParticleContainer_1_1ParticleRef.html#ab3df80e6d76e6576eb527bd89d2a4212',1,'ParticleContainer::ParticleRef::x()'],['../structParticleContainer_1_1ConstParticleRef.html#ab9116c2aefbb9d41c611312233bd9840',1,'ParticleContainer::ConstParticleRef::x()']]],
+  ['x_5fptr_1',['x_ptr',['../structVectorField.html#a965a3bf608734b5a77b68c02430cbf7a',1,'VectorField::x_ptr() noexcept'],['../structVectorField.html#a5c301bb970a9734b372845b264c83736',1,'VectorField::x_ptr() const noexcept']]]
 ];

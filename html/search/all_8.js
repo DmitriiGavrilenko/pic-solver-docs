@@ -1,12 +1,19 @@
 var searchData=
 [
-  ['idx_0',['idx',['../structParticleContainer_1_1ParticleRef.html#ab537496e7e0ff50aab5c3c146733326c',1,'ParticleContainer::ParticleRef::idx'],['../structParticleContainer_1_1ConstParticleRef.html#ad30b3afaba37cee9fecfedf2d0754022',1,'ParticleContainer::ConstParticleRef::idx']]],
-  ['index_1',['index',['../structGridParams.html#a2464eebb4f279e179e91390ee00dbf25',1,'GridParams']]],
-  ['interpolate_5ffields_5fto_5fparticles_2',['interpolate_fields_to_particles',['../classFieldContainer.html#a96f54a8b77cf7f8c4a9a263f8c8fc4da',1,'FieldContainer']]],
-  ['inv_5fc_5flight_3',['inv_c_light',['../namespaceconstants_1_1si.html#ab73c05f421dea0ee05c604d3019df67f',1,'constants::si']]],
-  ['inv_5fcm3_4',['inv_cm3',['../namespaceunits.html#a7afb3ff8d76c79d14fa513f3b98ddb7f',1,'units']]],
-  ['inv_5fdt_5',['inv_dt',['../structGridParams.html#a337478c946f295ac8d853d8ca2ff3f51',1,'GridParams']]],
-  ['inv_5fdx_6',['inv_dx',['../structAxisParams.html#a9a7470e1304724f4fdfe64e594335db2',1,'AxisParams']]],
-  ['inv_5feps_5f0_7',['inv_eps_0',['../namespaceconstants_1_1si.html#a77e5b991695c22e79e0fd768b2ca2dfc',1,'constants::si']]],
-  ['inv_5fm3_8',['inv_m3',['../namespaceunits.html#ada2167abd39f75476dc319258722086e',1,'units']]]
+  ['b_0',['b',['../classYeeGrid.html#a83429581d5b35bd6d238f7493bbf52fd',1,'YeeGrid']]],
+  ['ballistic_1',['Ballistic',['../particle__species_8hpp.html#a1b04aa8e350271255d351486d3720741a272076ee2e40acec00f8329b4b278d51',1,'particle_species.hpp']]],
+  ['begin_2',['begin',['../structAxisParams.html#aa4eeb7fbea8fd67bffbbf6b82fb917b9',1,'AxisParams']]],
+  ['boris_5fpusher_2ecpp_3',['boris_pusher.cpp',['../boris__pusher_8cpp.html',1,'']]],
+  ['boris_5fpusher_2ehpp_4',['boris_pusher.hpp',['../boris__pusher_8hpp.html',1,'']]],
+  ['borispusher_5',['BorisPusher',['../classBorisPusher.html',1,'BorisPusher'],['../classBorisPusher.html#afb8146b9af1d6e32129020bd1117f1ef',1,'BorisPusher::BorisPusher()']]],
+  ['boundaries_5f_6',['boundaries_',['../classPicSolver.html#aee88413580bf6da7a4045206ed1f78dd',1,'PicSolver']]],
+  ['boundary_5fconditions_2ehpp_7',['boundary_conditions.hpp',['../boundary__conditions_8hpp.html',1,'']]],
+  ['boundaryconditions_8',['BoundaryConditions',['../classBoundaryConditions.html',1,'']]],
+  ['buffer_5fsize_9',['buffer_size',['../classYeeGrid.html#aaeacff9a9e3144f2a827ef93fdc39626',1,'YeeGrid']]],
+  ['bx_10',['bx',['../classFieldContainer.html#a33e23e06db2c32fb02900c0b78e8ba57',1,'FieldContainer::bx'],['../structYeeGrid_1_1YeePointers.html#a6fc06f171326ad0adaf86ed5656a6df8',1,'YeeGrid::YeePointers::bx'],['../structYeeGrid_1_1ConstYeePointers.html#a7f0815bdd0fd93f1883b71a69530956e',1,'YeeGrid::ConstYeePointers::bx']]],
+  ['bx_5fpart_5f_11',['bx_part_',['../classPicSolver.html#a37c5effebfa27364633d284b9fab1d7c',1,'PicSolver']]],
+  ['by_12',['by',['../classFieldContainer.html#a38c7811c0aa186ac76b722828e9991f9',1,'FieldContainer::by'],['../structYeeGrid_1_1YeePointers.html#afda495bf729e056556db3ff7c83bc54c',1,'YeeGrid::YeePointers::by'],['../structYeeGrid_1_1ConstYeePointers.html#a1bb0804a984e19f26028f4c3ea6dd915',1,'YeeGrid::ConstYeePointers::by']]],
+  ['by_5fpart_5f_13',['by_part_',['../classPicSolver.html#a125aeee3c885a472da926011115f21bd',1,'PicSolver']]],
+  ['bz_14',['bz',['../classFieldContainer.html#a3cec843a87fdfdfaaaf19b356d28e9ad',1,'FieldContainer::bz'],['../structYeeGrid_1_1YeePointers.html#a52918bfa302f66440d26847faefe4362',1,'YeeGrid::YeePointers::bz'],['../structYeeGrid_1_1ConstYeePointers.html#a1aa6cf9e2ec950a2e7f351a6c1eed088',1,'YeeGrid::ConstYeePointers::bz']]],
+  ['bz_5fpart_5f_15',['bz_part_',['../classPicSolver.html#a72faeda78bb54bce3a83ad19e6b2dd87',1,'PicSolver']]]
 ];

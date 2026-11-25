@@ -3,9 +3,17 @@ var searchData=
   ['accumulate_5ffrom_0',['accumulate_from',['../structVectorField.html#a51148939e3ce3268c37c50de282ca500',1,'VectorField']]],
   ['active_1',['active',['../structAxisParams.html#ac1192156697e8077a74e18951007d73a',1,'AxisParams']]],
   ['active_5fcells_2',['active_cells',['../structGridParams.html#a16e6b12f93558fcb886d496cffe896fc',1,'GridParams']]],
-  ['add_5fparticle_3',['add_particle',['../classParticleContainer.html#aae588106712efa9cf621a5eab2bbc824',1,'ParticleContainer']]],
-  ['add_5fparticles_5fbatch_4',['add_particles_batch',['../classParticleContainer.html#a739ecb33c17f6a9a42af5dcc03d7c592',1,'ParticleContainer']]],
-  ['alignedallocator_5',['AlignedAllocator',['../structAlignedAllocator.html#aa9cbc3b78d9e1654659dbddc388f1ee5',1,'AlignedAllocator::AlignedAllocator() noexcept=default'],['../structAlignedAllocator.html#a116c3a68cfe337874ca881908721a64f',1,'AlignedAllocator::AlignedAllocator(const AlignedAllocator&lt; U, Alignment &gt; &amp;) noexcept']]],
-  ['allocate_6',['allocate',['../structAlignedAllocator.html#acc22653161736d956923e1802037480e',1,'AlignedAllocator']]],
-  ['at_7',['at',['../classYeeGrid.html#a249e949a39a7afd4699c0334939359c3',1,'YeeGrid::at(AlignedVector&lt; float_point &gt; &amp;component, size_t i, size_t j=0, size_t k=0) noexcept'],['../classYeeGrid.html#ad5928d25676269488f778acf714e0669',1,'YeeGrid::at(const AlignedVector&lt; float_point &gt; &amp;component, size_t i, size_t j=0, size_t k=0) const noexcept']]]
+  ['add_5fparticle_3',['add_particle',['../classParticleContainer.html#a75ef6f91c4216c6bd74018e64982c788',1,'ParticleContainer']]],
+  ['add_5fparticles_5fbatch_4',['add_particles_batch',['../classParticleContainer.html#a9a4cbff96263737fd189a30a545622f6',1,'ParticleContainer']]],
+  ['add_5fspecies_5',['add_species',['../classPicSolver.html#add260a832fd7625f7b2d236b97284413',1,'PicSolver']]],
+  ['advance_5fb_6',['advance_b',['../classMaxwellSolver.html#a00b4c2364ea329e5236697621dfd4618',1,'MaxwellSolver']]],
+  ['advance_5fe_7',['advance_e',['../classMaxwellSolver.html#aa55f962f5f60b3754e3b47d170de8570',1,'MaxwellSolver']]],
+  ['alignedallocator_8',['AlignedAllocator',['../structAlignedAllocator.html#aa9cbc3b78d9e1654659dbddc388f1ee5',1,'AlignedAllocator::AlignedAllocator() noexcept=default'],['../structAlignedAllocator.html#a116c3a68cfe337874ca881908721a64f',1,'AlignedAllocator::AlignedAllocator(const AlignedAllocator&lt; U, Alignment &gt; &amp;) noexcept']]],
+  ['allocate_9',['allocate',['../structAlignedAllocator.html#acc22653161736d956923e1802037480e',1,'AlignedAllocator']]],
+  ['apply_5fb_10',['apply_b',['../classBoundaryConditions.html#a29c0028549ba632bb3023f68a6d524c3',1,'BoundaryConditions::apply_b()'],['../classNullBoundaryConditions.html#aa8b2badd22570622b0847d7589fbc46a',1,'NullBoundaryConditions::apply_b()']]],
+  ['apply_5fe_11',['apply_e',['../classBoundaryConditions.html#a99cd93215f3cf344b17307a37dc45893',1,'BoundaryConditions::apply_e()'],['../classNullBoundaryConditions.html#a0460deb7f840dbbfac88cd8226369e0f',1,'NullBoundaryConditions::apply_e()']]],
+  ['apply_5finitial_5fboundaries_12',['apply_initial_boundaries',['../classPicSolver.html#ac1879de625f7d6c160f9a9d4f1e05a22',1,'PicSolver']]],
+  ['apply_5fj_13',['apply_j',['../classBoundaryConditions.html#a4bf1f0c6ca0d3748bc7762cf039040e1',1,'BoundaryConditions::apply_j()'],['../classNullBoundaryConditions.html#a0c8d72b2703049c18b288f402a66d891',1,'NullBoundaryConditions::apply_j()']]],
+  ['apply_5fparticles_14',['apply_particles',['../classBoundaryConditions.html#ada1d5dcd3ddb1f69b15f54a232f52329',1,'BoundaryConditions::apply_particles()'],['../classNullBoundaryConditions.html#a95edef3535354d155f9d78ff7596cbb5',1,'NullBoundaryConditions::apply_particles()']]],
+  ['at_15',['at',['../classYeeGrid.html#a249e949a39a7afd4699c0334939359c3',1,'YeeGrid::at(AlignedVector&lt; float_point &gt; &amp;component, size_t i, size_t j=0, size_t k=0) noexcept'],['../classYeeGrid.html#ad5928d25676269488f778acf714e0669',1,'YeeGrid::at(const AlignedVector&lt; float_point &gt; &amp;component, size_t i, size_t j=0, size_t k=0) const noexcept']]]
 ];

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['x_0',['x',['../structGridParams.html#af67d331e6844d44539d1592751c0c204',1,'GridParams::x'],['../classParticleContainer.html#a05afb2d66e920d100d83752afd6b95c7',1,'ParticleContainer::x'],['../structVectorField.html#a9d170a03bbc74bc1cb8ddf6e0636b4c7',1,'VectorField::x'],['../structVectorField_1_1Pointers.html#a2b625f8b90e001a44eb0fbcb73291b63',1,'VectorField::Pointers::x'],['../structVectorField_1_1ConstPointers.html#ac54a87b77ac4049f812525956edc17bb',1,'VectorField::ConstPointers::x'],['../structParticleContainer_1_1ParticleRef.html#a5da49eb911f27a44a0b4376df95de483',1,'ParticleContainer::ParticleRef::x()'],['../structParticleContainer_1_1ConstParticleRef.html#aada3507c58adca1024321334d6386c7b',1,'ParticleContainer::ConstParticleRef::x()']]],
-  ['x_5fptr_1',['x_ptr',['../structVectorField.html#a965a3bf608734b5a77b68c02430cbf7a',1,'VectorField::x_ptr() noexcept'],['../structVectorField.html#a5c301bb970a9734b372845b264c83736',1,'VectorField::x_ptr() const noexcept']]]
+  ['q_5fover_5fm_5f_0',['q_over_m_',['../classBorisPusher.html#a73683ad61ea13ad1332830478353d60d',1,'BorisPusher']]]
 ];

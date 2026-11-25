@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['pic_20solver_0',['PIC Solver',['../index.html',1,'']]],
-  ['plans_1',['plans',['../md_docs_2modeling_2plans.html',1,'']]]
+  ['_24_0',['Хронология одного шага по времени $t^n \\to t^{n+1}$',['../md_docs_2SAD.html#autotoc_md4',1,'']]],
+  ['_24t_20n_20t_20n_201_20_24_1',['Хронология одного шага по времени $t^n \\to t^{n+1}$',['../md_docs_2SAD.html#autotoc_md4',1,'']]]
 ];

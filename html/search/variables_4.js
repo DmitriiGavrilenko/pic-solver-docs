@@ -2,10 +2,17 @@ var searchData=
 [
   ['e_0',['e',['../classYeeGrid.html#a59fc5015103e57cd1aff6b9e72686cce',1,'YeeGrid']]],
   ['e_5fcharge_1',['e_charge',['../namespaceconstants_1_1si.html#a6542dfe8a9c4aa57e2b0dcaa52405525',1,'constants::si::e_charge'],['../namespaceconstants_1_1normalized.html#ae23f5dd4257031ad1cb338c39b176ff3',1,'constants::normalized::e_charge']]],
-  ['electron_5fq_5fover_5fm_2',['electron_q_over_m',['../namespaceconstants_1_1si.html#a7958fc47764ee20befc4a9a90c878b40',1,'constants::si']]],
-  ['eps_5f0_3',['eps_0',['../namespaceconstants_1_1si.html#af6d419991f5fb4bfcacf84d228b41512',1,'constants::si']]],
-  ['ev_4',['eV',['../namespaceunits.html#a4c23e9728f141082de2f8230295e884f',1,'units']]],
-  ['ex_5',['ex',['../classFieldContainer.html#a6cff0b4bb03c3728ac6cdbc3512e2c54',1,'FieldContainer::ex'],['../structYeeGrid_1_1YeePointers.html#a7ffc940a07a931b0afb123e61a5a2a7c',1,'YeeGrid::YeePointers::ex'],['../structYeeGrid_1_1ConstYeePointers.html#aed73f15806aa472b17005211bb7adc36',1,'YeeGrid::ConstYeePointers::ex']]],
-  ['ey_6',['ey',['../classFieldContainer.html#a146eff8391ab53455235a3dd88188416',1,'FieldContainer::ey'],['../structYeeGrid_1_1YeePointers.html#a77c727ab168c47a632c06d93efbf4f8f',1,'YeeGrid::YeePointers::ey'],['../structYeeGrid_1_1ConstYeePointers.html#af389fd2806c9d324325359e1816346f7',1,'YeeGrid::ConstYeePointers::ey']]],
-  ['ez_7',['ez',['../classFieldContainer.html#a4a15c69df21a3bd89fec58ddaea42b39',1,'FieldContainer::ez'],['../structYeeGrid_1_1YeePointers.html#a674ab34744e36b0f0b1e696c68b448a0',1,'YeeGrid::YeePointers::ez'],['../structYeeGrid_1_1ConstYeePointers.html#ac731ef3d2f0c27a589e6c47de8cbeb59',1,'YeeGrid::ConstYeePointers::ez']]]
+  ['edge_5fx_2',['edge_x',['../classMaterialGrid.html#ab039cf92488eb4b19f0925794e9845b9',1,'MaterialGrid']]],
+  ['edge_5fy_3',['edge_y',['../classMaterialGrid.html#af6dcca9f50ec9c5fb4a4f86f0630b29f',1,'MaterialGrid']]],
+  ['edge_5fz_4',['edge_z',['../classMaterialGrid.html#a8568a8d8e6efbf3f2c726e9cd978cb11',1,'MaterialGrid']]],
+  ['electron_5fq_5fover_5fm_5',['electron_q_over_m',['../namespaceconstants_1_1si.html#a7958fc47764ee20befc4a9a90c878b40',1,'constants::si::electron_q_over_m'],['../namespaceconstants_1_1normalized.html#a627fbad838048195eee686fc2a3d1fde',1,'constants::normalized::electron_q_over_m']]],
+  ['eps_5f0_6',['eps_0',['../namespaceconstants_1_1si.html#af6d419991f5fb4bfcacf84d228b41512',1,'constants::si::eps_0'],['../namespaceconstants_1_1normalized.html#a5abb509fc69af6923d3b6809dae4b4f1',1,'constants::normalized::eps_0']]],
+  ['eps_5fr_7',['eps_r',['../structMaterial.html#a16fc117b2adff29321589a8d2fec80d7',1,'Material']]],
+  ['ev_8',['eV',['../namespaceunits.html#a4c23e9728f141082de2f8230295e884f',1,'units']]],
+  ['ex_9',['ex',['../classFieldContainer.html#a6cff0b4bb03c3728ac6cdbc3512e2c54',1,'FieldContainer::ex'],['../structYeeGrid_1_1YeePointers.html#a7ffc940a07a931b0afb123e61a5a2a7c',1,'YeeGrid::YeePointers::ex'],['../structYeeGrid_1_1ConstYeePointers.html#aed73f15806aa472b17005211bb7adc36',1,'YeeGrid::ConstYeePointers::ex']]],
+  ['ex_5fpart_5f_10',['ex_part_',['../classPicSolver.html#ae2ffaf3c4c5cdb66626f7d00336d3d4f',1,'PicSolver']]],
+  ['ey_11',['ey',['../classFieldContainer.html#a146eff8391ab53455235a3dd88188416',1,'FieldContainer::ey'],['../structYeeGrid_1_1YeePointers.html#a77c727ab168c47a632c06d93efbf4f8f',1,'YeeGrid::YeePointers::ey'],['../structYeeGrid_1_1ConstYeePointers.html#af389fd2806c9d324325359e1816346f7',1,'YeeGrid::ConstYeePointers::ey']]],
+  ['ey_5fpart_5f_12',['ey_part_',['../classPicSolver.html#acb7c08636627d650e0da63f384beef6f',1,'PicSolver']]],
+  ['ez_13',['ez',['../classFieldContainer.html#a4a15c69df21a3bd89fec58ddaea42b39',1,'FieldContainer::ez'],['../structYeeGrid_1_1YeePointers.html#a674ab34744e36b0f0b1e696c68b448a0',1,'YeeGrid::YeePointers::ez'],['../structYeeGrid_1_1ConstYeePointers.html#ac731ef3d2f0c27a589e6c47de8cbeb59',1,'YeeGrid::ConstYeePointers::ez']]],
+  ['ez_5fpart_5f_14',['ez_part_',['../classPicSolver.html#a2b6c9f351a5974009172ba78826dfef2',1,'PicSolver']]]
 ];
