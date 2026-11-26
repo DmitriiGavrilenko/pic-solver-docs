@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['material_0',['Material',['../structMaterial.html',1,'']]],
-  ['materialgrid_1',['MaterialGrid',['../classMaterialGrid.html',1,'']]],
-  ['maxwellsolver_2',['MaxwellSolver',['../classMaxwellSolver.html',1,'']]]
+  ['hdf5outputconfig_0',['Hdf5OutputConfig',['../structHdf5OutputConfig.html',1,'']]],
+  ['hdf5writer_1',['Hdf5Writer',['../classHdf5Writer.html',1,'']]]
 ];

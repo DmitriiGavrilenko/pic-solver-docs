@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['index_0',['index',['../structGridParams.html#a2464eebb4f279e179e91390ee00dbf25',1,'GridParams']]],
-  ['interpolate_1',['interpolate',['../classFieldInterpolator.html#ac1c473ef0ea2b15016dcb8f56de8d980',1,'FieldInterpolator::interpolate()'],['../classNullFieldInterpolator.html#a9ebad3a621deb72e2dbca3253b547c63',1,'NullFieldInterpolator::interpolate()']]],
-  ['interpolate_5ffields_5fto_5fparticles_2',['interpolate_fields_to_particles',['../classFieldContainer.html#a96f54a8b77cf7f8c4a9a263f8c8fc4da',1,'FieldContainer']]]
+  ['has_5fflag_0',['has_flag',['../hdf5__writer_8hpp.html#a7c6302a06c023acef4b4c2272578c41e',1,'hdf5_writer.hpp']]],
+  ['hdf5writer_1',['Hdf5Writer',['../classHdf5Writer.html#ac624c111d4acd7bbdc7de79f663f8cec',1,'Hdf5Writer::Hdf5Writer(const std::string &amp;filepath, const GridParams &amp;grid, Hdf5OutputConfig config={})'],['../classHdf5Writer.html#ac3b4f520ce04c39d072d501e9d2a37e5',1,'Hdf5Writer::Hdf5Writer(const Hdf5Writer &amp;)=delete']]]
 ];

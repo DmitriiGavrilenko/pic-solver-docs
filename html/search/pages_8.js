@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['n_201_20_24_0',['Хронология одного шага по времени $t^n \\to t^{n+1}$',['../md_docs_2SAD.html#autotoc_md4',1,'']]],
-  ['n_20t_20n_201_20_24_1',['Хронология одного шага по времени $t^n \\to t^{n+1}$',['../md_docs_2SAD.html#autotoc_md4',1,'']]]
+  ['geometry_0',['Группа &lt;span class=&quot;tt&quot;&gt;/geometry&lt;/span&gt;',['../md_docs_2HDF5__OUTPUT.html#autotoc_md13',1,'']]]
 ];

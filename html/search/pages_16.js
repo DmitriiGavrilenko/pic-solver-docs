@@ -1,9 +1,6 @@
 var searchData=
 [
-  ['реализованные_20подсистемы_0',['Реализованные подсистемы',['../md_docs_2SAD.html#autotoc_md2',1,'']]],
-  ['развития_1',['6. Дорожная карта дальнейшего развития',['../md_docs_2SAD.html#autotoc_md12',1,'']]],
-  ['развития_20электромагнитного_20pic_20солвера_2',['Архитектура и план развития электромагнитного PIC-солвера',['../md_docs_2SAD.html',1,'']]],
-  ['размерности_20и_20масштабирования_3',['5. План внедрения адаптивной размерности и масштабирования',['../md_docs_2SAD.html#autotoc_md10',1,'']]],
-  ['реализацию_4',['Как добавить новую реализацию',['../md_docs_2SAD.html#autotoc_md7',1,'']]],
-  ['режимы_20сортов_20частиц_20particlespecies_5',['4. Флаги и режимы сортов частиц (&lt;span class=&quot;tt&quot;&gt;ParticleSpecies&lt;/span&gt;)',['../md_docs_2SAD.html#autotoc_md8',1,'']]]
+  ['настройка_20параметров_20вывода_20hdf5outputconfig_0',['1.2. Настройка параметров вывода (&lt;span class=&quot;tt&quot;&gt;Hdf5OutputConfig&lt;/span&gt;)',['../md_docs_2HDF5__OUTPUT.html#autotoc_md4',1,'']]],
+  ['на_20python_20h5py_1',['3. Пример чтения данных на Python (&lt;span class=&quot;tt&quot;&gt;h5py&lt;/span&gt;)',['../md_docs_2HDF5__OUTPUT.html#autotoc_md17',1,'']]],
+  ['новую_20реализацию_2',['Как добавить новую реализацию',['../md_docs_2SAD.html#autotoc_md25',1,'']]]
 ];

@@ -19,6 +19,8 @@ var hierarchy =
     ] ],
     [ "Grid", "structGrid.html", null ],
     [ "GridParams", "structGridParams.html", null ],
+    [ "Hdf5OutputConfig", "structHdf5OutputConfig.html", null ],
+    [ "Hdf5Writer", "classHdf5Writer.html", null ],
     [ "Material", "structMaterial.html", null ],
     [ "MaterialGrid", "classMaterialGrid.html", null ],
     [ "MaxwellSolver", "classMaxwellSolver.html", null ],

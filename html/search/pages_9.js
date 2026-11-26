@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['particlespecies_0',['4. Флаги и режимы сортов частиц (&lt;span class=&quot;tt&quot;&gt;ParticleSpecies&lt;/span&gt;)',['../md_docs_2SAD.html#autotoc_md8',1,'']]],
-  ['pic_20солвера_1',['Архитектура и план развития электромагнитного PIC-солвера',['../md_docs_2SAD.html',1,'']]],
-  ['pic_20solver_2',['PIC Solver',['../index.html',1,'']]],
-  ['picsolver_20и_20maxwellsolver_3',['2. Взаимодействие &lt;span class=&quot;tt&quot;&gt;PicSolver&lt;/span&gt; и &lt;span class=&quot;tt&quot;&gt;MaxwellSolver&lt;/span&gt;',['../md_docs_2SAD.html#autotoc_md3',1,'']]],
-  ['plans_4',['plans',['../md_docs_2modeling_2plans.html',1,'']]]
+  ['h5py_0',['3. Пример чтения данных на Python (&lt;span class=&quot;tt&quot;&gt;h5py&lt;/span&gt;)',['../md_docs_2HDF5__OUTPUT.html#autotoc_md17',1,'']]],
+  ['hdf5_20файла_1',['2. Спецификация структуры HDF5-файла',['../md_docs_2HDF5__OUTPUT.html#autotoc_md7',1,'']]],
+  ['hdf5_20hdf5writer_2',['Вывод диагностических данных в формат HDF5 (&lt;span class=&quot;tt&quot;&gt;Hdf5Writer&lt;/span&gt;)',['../md_docs_2HDF5__OUTPUT.html',1,'']]],
+  ['hdf5outputconfig_3',['1.2. Настройка параметров вывода (&lt;span class=&quot;tt&quot;&gt;Hdf5OutputConfig&lt;/span&gt;)',['../md_docs_2HDF5__OUTPUT.html#autotoc_md4',1,'']]],
+  ['hdf5writer_4',['Вывод диагностических данных в формат HDF5 (&lt;span class=&quot;tt&quot;&gt;Hdf5Writer&lt;/span&gt;)',['../md_docs_2HDF5__OUTPUT.html',1,'']]]
 ];

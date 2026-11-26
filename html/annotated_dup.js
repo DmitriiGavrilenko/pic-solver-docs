@@ -9,6 +9,8 @@ var annotated_dup =
     [ "FieldInterpolator", "classFieldInterpolator.html", "classFieldInterpolator" ],
     [ "Grid", "structGrid.html", "structGrid" ],
     [ "GridParams", "structGridParams.html", "structGridParams" ],
+    [ "Hdf5OutputConfig", "structHdf5OutputConfig.html", "structHdf5OutputConfig" ],
+    [ "Hdf5Writer", "classHdf5Writer.html", "classHdf5Writer" ],
     [ "Material", "structMaterial.html", "structMaterial" ],
     [ "MaterialGrid", "classMaterialGrid.html", "classMaterialGrid" ],
     [ "MaxwellSolver", "classMaxwellSolver.html", "classMaxwellSolver" ],

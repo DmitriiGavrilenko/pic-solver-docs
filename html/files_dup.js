@@ -9,6 +9,8 @@ var files_dup =
     [ "field_container.hpp", "field__container_8hpp.html", "field__container_8hpp" ],
     [ "grid.hpp", "grid_8hpp.html", "grid_8hpp" ],
     [ "grid_params.hpp", "grid__params_8hpp.html", "grid__params_8hpp" ],
+    [ "hdf5_writer.cpp", "hdf5__writer_8cpp.html", null ],
+    [ "hdf5_writer.hpp", "hdf5__writer_8hpp.html", "hdf5__writer_8hpp" ],
     [ "interpolator.hpp", "interpolator_8hpp.html", "interpolator_8hpp" ],
     [ "material.hpp", "material_8hpp.html", "material_8hpp" ],
     [ "material_grid.hpp", "material__grid_8hpp.html", "material__grid_8hpp" ],

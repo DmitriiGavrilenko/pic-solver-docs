@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['взаимодействие_20picsolver_20и_20maxwellsolver_0',['2. Взаимодействие &lt;span class=&quot;tt&quot;&gt;PicSolver&lt;/span&gt; и &lt;span class=&quot;tt&quot;&gt;MaxwellSolver&lt;/span&gt;',['../md_docs_2SAD.html#autotoc_md3',1,'']]],
-  ['внедрения_20адаптивной_20размерности_20и_20масштабирования_1',['5. План внедрения адаптивной размерности и масштабирования',['../md_docs_2SAD.html#autotoc_md10',1,'']]],
-  ['времени_20_24t_20n_20t_20n_201_20_24_2',['Хронология одного шага по времени $t^n \\to t^{n+1}$',['../md_docs_2SAD.html#autotoc_md4',1,'']]]
+  ['solver_0',['PIC Solver',['../index.html',1,'']]],
+  ['step_5fxxxxxxxx_1',['Группа &lt;span class=&quot;tt&quot;&gt;/steps&lt;/span&gt; и снимки &lt;span class=&quot;tt&quot;&gt;/steps/step_XXXXXXXX&lt;/span&gt;',['../md_docs_2HDF5__OUTPUT.html#autotoc_md15',1,'']]],
+  ['steps_20и_20снимки_20steps_20step_5fxxxxxxxx_2',['Группа &lt;span class=&quot;tt&quot;&gt;/steps&lt;/span&gt; и снимки &lt;span class=&quot;tt&quot;&gt;/steps/step_XXXXXXXX&lt;/span&gt;',['../md_docs_2HDF5__OUTPUT.html#autotoc_md15',1,'']]],
+  ['steps_20step_5fxxxxxxxx_3',['Группа &lt;span class=&quot;tt&quot;&gt;/steps&lt;/span&gt; и снимки &lt;span class=&quot;tt&quot;&gt;/steps/step_XXXXXXXX&lt;/span&gt;',['../md_docs_2HDF5__OUTPUT.html#autotoc_md15',1,'']]]
 ];

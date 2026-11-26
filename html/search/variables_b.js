@@ -8,13 +8,14 @@ var searchData=
   ['mass_5',['mass',['../structParticleSpecies.html#ad8e769298f6f9ee81ab66093b0b8d70c',1,'ParticleSpecies']]],
   ['material_5f_6',['material_',['../classMaxwellSolver.html#a1ba73ca6e08f202dd69ca1789c6070d2',1,'MaxwellSolver']]],
   ['materials_5f_7',['materials_',['../classMaterialGrid.html#a1934e9dd4d929a3ca790246bd366c96e',1,'MaterialGrid']]],
-  ['maxwell_5f_8',['maxwell_',['../classPicSolver.html#a44e6b97f7783406ba93fd3ef6ff1aedf',1,'PicSolver']]],
-  ['mev_9',['MeV',['../namespaceunits.html#ab6c6d916ada5dde633659e2da612ea1f',1,'units']]],
-  ['mhz_10',['MHz',['../namespaceunits.html#a6c3072b3d8161f712ae8e1e500c9cebb',1,'units']]],
-  ['mm_11',['mm',['../namespaceunits.html#af371cf0333c3be8fa6948603811f1914',1,'units']]],
-  ['motion_12',['motion',['../structParticleSpecies.html#a92b885befe1e164d05c3564f19bbd7e7',1,'ParticleSpecies']]],
-  ['ms_13',['ms',['../namespaceunits.html#adf3686fe94cce905b16c5b675f938f8e',1,'units']]],
-  ['mu_5f0_14',['mu_0',['../namespaceconstants_1_1si.html#aa6d4e3ba1f1c36d8a08c15116ebfa502',1,'constants::si::mu_0'],['../namespaceconstants_1_1normalized.html#af38a706a812dfc39deff0cf8de72eadd',1,'constants::normalized::mu_0']]],
-  ['mv_15',['MV',['../namespaceunits.html#a75b6fd3e133006e55da13a3f5481510b',1,'units']]],
-  ['mv_5fm_16',['MV_m',['../namespaceunits.html#a4ae93de679f0bbd73ec48d125014882c',1,'units']]]
+  ['max_5fparticles_5fper_5fspecies_8',['max_particles_per_species',['../structHdf5OutputConfig.html#a0b7e93dae31cde3ac9f76ce4b140a0b4',1,'Hdf5OutputConfig']]],
+  ['maxwell_5f_9',['maxwell_',['../classPicSolver.html#a44e6b97f7783406ba93fd3ef6ff1aedf',1,'PicSolver']]],
+  ['mev_10',['MeV',['../namespaceunits.html#ab6c6d916ada5dde633659e2da612ea1f',1,'units']]],
+  ['mhz_11',['MHz',['../namespaceunits.html#a6c3072b3d8161f712ae8e1e500c9cebb',1,'units']]],
+  ['mm_12',['mm',['../namespaceunits.html#af371cf0333c3be8fa6948603811f1914',1,'units']]],
+  ['motion_13',['motion',['../structParticleSpecies.html#a92b885befe1e164d05c3564f19bbd7e7',1,'ParticleSpecies']]],
+  ['ms_14',['ms',['../namespaceunits.html#adf3686fe94cce905b16c5b675f938f8e',1,'units']]],
+  ['mu_5f0_15',['mu_0',['../namespaceconstants_1_1si.html#aa6d4e3ba1f1c36d8a08c15116ebfa502',1,'constants::si::mu_0'],['../namespaceconstants_1_1normalized.html#af38a706a812dfc39deff0cf8de72eadd',1,'constants::normalized::mu_0']]],
+  ['mv_16',['MV',['../namespaceunits.html#a75b6fd3e133006e55da13a3f5481510b',1,'units']]],
+  ['mv_5fm_17',['MV_m',['../namespaceunits.html#a4ae93de679f0bbd73ec48d125014882c',1,'units']]]
 ];
